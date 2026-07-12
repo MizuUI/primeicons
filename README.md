@@ -1,27 +1,18 @@
-# PrimeIcons
+# Archived Community Fork
 
-### The next chapter has begun.
+This repository represents the final MIT‑licensed state of PrimeVue before its license change.  
+We are keeping this fork available as a historical reference and as a transparent snapshot of the last open‑source version.
 
-After years as an open source library, PrimeIcons enters its next chapter as part of **PrimeUI**,  a sustainable foundation for the libraries you rely on.
+### MizuUI — The Spiritual Successor
 
-This repository is now **archived**. It remains available, as a record of everything built here together.
+Active development now continues under **MizuUI**, a community‑driven continuation of the MIT PrimeVue ecosystem.  
+MizuUI aims to:
 
-## What this means
+- preserve the original MIT licensing  
+- maintain compatibility with PrimeVue’s final MIT release  
+- provide long‑term stability for teams relying on the open‑source version  
+- evolve the component library with modern Vue and React patterns  
 
-**Existing MIT versions remain MIT, forever.**
-Every release published under the MIT license stays exactly as it is. Your existing projects are unaffected. Nothing is taken away.
+👉 **Current project:** https://github.com/MizuUI
 
-**Development continues at a new home.**
-Active development, new releases, and everything ahead now live under PrimeUI.
-
-➡️ **Read the announcement:** [primeui.dev/nextchapter](https://primeui.dev/nextchapter)
-
-➡️ **The journey continues at:** [primeicons.dev](https://primeicons.dev)
-
-## Thank you
-
-To everyone who used PrimeIcons, filed an issue, opened a pull request, answered a question, or simply built something with it,  thank you. This library reached hundreds of millions of downloads because of you.
-
-This archive stays here as a thank you and a milestone. The next chapter is just beginning, and we hope you'll be part of it.
-
-— The PrimeTek Team
+This repository is archived and will not receive updates, but will remain publicly accessible for anyone who needs the original MIT codebase.
